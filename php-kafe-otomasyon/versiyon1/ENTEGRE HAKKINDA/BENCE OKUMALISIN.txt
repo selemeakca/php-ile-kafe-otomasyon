@@ -1,0 +1,14 @@
+
+# veritabanı adı : ogrenci
+# Kullanıcı adı: root
+# sifre : 
+
+
+Admin Paneli giriş Bilgileri
+
+Ad : olcay
+Şifre : 1
+
+Garson giriş bilgileri
+
+Tüm şifreler : 1
